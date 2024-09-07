@@ -4,7 +4,7 @@ const chalk = require('chalk')
 module.exports = {
   SESSION_ID: '',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @ahmer hacker [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -23,10 +23,10 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'Ahmer_ali',
+  OWNER_NAME: 'ahmer-ali',
+  OWNER_NUMBER: '923287149558',
+  SUDO: '923287149558',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
